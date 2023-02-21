@@ -1,0 +1,48 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/Serialization (= 3.2.1)
+  - AFNetworking/Serialization (3.2.1):
+    - AFNetworking (= 3.2.1)
+  - Firebase/Core (7.5.0):
+    - FirebaseAnalytics (~> 7.4.0)
+    - FirebaseCore (~> 7.4.0)
+  - Firebase/Analytics (7.4.0):
+    - FirebaseCore (~> 7.4.0)
+  - Firebase/Crashlytics (8.5.0):
+    - FirebaseCore (~> 7.4.0)
+  - Firebase/Performance (7.4.0):
+    - FirebaseCore (~> 7.4.0)
+  - SDWebImage (5.11.0):
+    - SDWebImage/Core (= 5.11.0)
+  - SDWebImage/Core (5.11.0):
+    - SDWebImage/FLAnimatedImage (= 5.11.0)
+    - SDWebImage/GIF (= 5.11.0)
+  - SDWebImage/FLAnimatedImage (5.11.0):
+    - SDWebImage/Core (= 5.11.0)
+  - SDWebImage/GIF (5.11.0):
+    - SDWebImage/Core (= 5.11.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Firebase/Core
+  - Firebase/Analytics
+  - Firebase/Crashlytics
+  - Firebase/Performance
+  - SDWebImage/Core
+
+SPEC CHECKSUMS:
+  AFNetworking: 0123456789abcdef0123456789abcdef01234567
+  AFNetworking/Serialization: 1234567890abcdef1234567890abcdef12345678
+  Firebase: 234567890abcdef1234567890abcdef123456789a
+  FirebaseAnalytics: 34567890abcdef1234567890abcdef123456789a
+  FirebaseCore: 4567890abcdef1234567890abcdef123456789ab
+  FirebaseCrashlytics: 567890abcdef1234567890abcdef123456789ab
+  FirebasePerformance: 67890abcdef1234567890abcdef123456789ab
+  SDWebImage: 7890abcdef1234567890abcdef123456789abc
+  SDWebImageCore: 890abcdef1234567890abcdef123456789abcd
+  SDWebImageFLAnimatedImage: 90abcdef1234567890abcdef123456789abcde
+  SDWebImageGIF: 0abcdef1234567890abcdef123456789abcdef
+
+PODFILE CHECKSUM: abcdef0123456789abcdef0123456789abcdef01
+
+COCOAPODS: 1.7.5
